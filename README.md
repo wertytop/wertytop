@@ -1,0 +1,3 @@
+- Hi, im wertytop, aka werty.
+- My pronouns are he/him
+- I am relativley new to coding.
