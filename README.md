@@ -1,5 +1,4 @@
 # wertytop
-- My pronouns are he/him
-- I am new coder
-- Skyblock Macros dev :D
-- also lazy
+skyblock macro dev
+i know java, and learned python at one point but forgot everything
+legitimate gamer
