@@ -1,3 +1,5 @@
-- Hi, im wertytop, aka werty.
+#wertytop
 - My pronouns are he/him
-- I am relativley new to coding.
+- I am new coder
+- Skyblock Macros dev :D
+- also lazy
